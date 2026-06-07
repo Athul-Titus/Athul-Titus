@@ -8,19 +8,21 @@
 
 <br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ```python
 class AthulTitus:
-    name       = "Athul Titus"
-    location   = "Thiruvananthapuram, Kerala, IN"
-    degree     = "B.Tech CS (Data Science) — MACE, KTU (3rd Year)"
-    github     = "github.com/Athul-Titus"
-    email      = "athultitus2027@gmail.com"
+    name     = "Athul Titus"
+    location = "Thiruvananthapuram, Kerala, IN"
+    degree   = "B.Tech CS (Data Science) — MACE, KTU"
+    github   = "github.com/Athul-Titus"
+    email    = "athultitus2027@gmail.com"
 
     stack = [
         "Python", "React", "FastAPI",
-         "SQL", "R", "Flask",
+        "SQL", "R", "Flask",
         "Qiskit", "HTML/CSS"
     ]
 
@@ -28,16 +30,19 @@ class AthulTitus:
         "Agentic AI & Multi-Agent Systems",
         "Quantum Key Distribution (BB84)",
         "Large Language Model Integration",
-        
+        "PySpark & Power BI"
     ]
-
-    
 
     def motto(self):
         return "Build it. Break it. Learn. Repeat."
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="45%">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -46,6 +51,7 @@ class AthulTitus:
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -79,10 +85,10 @@ class AthulTitus:
 
 <div align="center">
   <a href="https://github.com/Athul-Titus">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Athul-Titus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Athul-Titus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
   </a>
   <a href="https://github.com/Athul-Titus">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athul-Titus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Athul-Titus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
   </a>
 </div>
 
@@ -107,7 +113,7 @@ class AthulTitus:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Athul-Titus&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Athul-Titus&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 ---
@@ -162,9 +168,9 @@ class AthulTitus:
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**🤖 Cymonic — AI Talent Engine**](https://github.com/Athul-Titus) | React · FastAPI · NVIDIA NIM · Llama 3 (8B & 70B) · Vercel · Render | Replaced keyword-ATS with semantic LLM scoring; multi-format resume ingestion (PDF/DOCX/Images) with OCR; real-time SSE streaming; anti-fraud credibility detector; deployed full-stack |
-| [**⚛️ BB84 QKD Simulator**](https://github.com/Athul-Titus) | TypeScript · Python · Qiskit · React · Flask · Cryptography | End-to-end quantum key distribution with Recursive BB84, rolling bias, Cascade error reconciliation; secure P2P messaging over LAN; smart abort classification |
-| [**🔬 Microplastic Analyzer**](https://github.com/Athul-Titus) | Python · K-Means · Apriori · Data Mining | Analyzed microplastic contamination in food products; K-Means clustering on contamination profiles; Apriori association rule mining for pattern discovery |
+| [**🤖 Cymonic — AI Talent Engine**](https://github.com/Athul-Titus/Talen-Search) | React · FastAPI · NVIDIA NIM · Llama 3 (8B & 70B) · Vercel · Render | Replaced keyword-ATS with semantic LLM scoring; multi-format resume ingestion (PDF/DOCX/Images) with OCR; real-time SSE streaming; anti-fraud credibility detector; deployed full-stack |
+| [**⚛️ BB84 QKD Simulator**](https://github.com/Athul-Titus/bb84_new) | TypeScript · Python · Qiskit · React · Flask · Cryptography | End-to-end quantum key distribution with Recursive BB84, rolling bias, Cascade error reconciliation; secure P2P messaging over LAN; smart abort classification |
+| [**🔬 Microplastic Analyzer**](https://github.com/Athul-Titus/microplastic-analyser) | Python · K-Means · Apriori · Data Mining | Analyzed microplastic contamination in food products; K-Means clustering on contamination profiles; Apriori association rule mining for pattern discovery |
 
 </div>
 
@@ -180,6 +186,8 @@ class AthulTitus:
 | 📜 | **NPTEL Certification — IoT** | Jul–Oct 2024, IIT-backed program |
 | 🧠 | **Prompt Engineering Certified** | AccelerateX, Nov 2024 |
 | 🐍 | **Python Certified** | MashupStack, Jun 2025 |
+
+
 
 </div>
 
@@ -214,7 +222,7 @@ class AthulTitus:
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/athul-titus">
+  <a href="https://www.linkedin.com/in/athultitus/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
