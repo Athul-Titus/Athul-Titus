@@ -1,6 +1,6 @@
-<a href="https://github.com/Athul-Titus">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Athul%20Titus&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20%7C%20Data%20Science%20%7C%20AI%20%26%20Quantum%20Enthusiast&descAlignY=62&descSize=16" />
-</a>
+<div align="center">
+  <img width="100%" src="banner.gif" alt="Athul Titus — CS | Data Science | AI & Quantum Enthusiast"/>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Athul+Titus+%F0%9F%91%8B;Full-Stack+%7C+AI+%7C+Quantum+Dev;Data+Science+%40+MACE%2C+KTU;Building+Things+That+Matter+%F0%9F%9A%80" alt="Typing SVG" />
@@ -186,8 +186,8 @@ class AthulTitus:
 | 📜 | **NPTEL Certification — IoT** | Jul–Oct 2024, IIT-backed program |
 | 🧠 | **Prompt Engineering Certified** | AccelerateX, Nov 2024 |
 | 🐍 | **Python Certified** | MashupStack, Jun 2025 |
-
-
+| 🔭 | **AISA Space Club Organiser** | MACE's astronomy & space science initiative |
+| 🎨 | **Lumora Designathon Lead** | Logistics & Hospitality Lead, GDG On Campus MACE |
 
 </div>
 
@@ -233,4 +233,7 @@ class AthulTitus:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+
+<div align="center">
+  <img width="100%" src="footer.gif" alt="footer wave"/>
+</div>
