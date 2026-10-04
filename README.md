@@ -3,7 +3,15 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Athul+Titus+%F0%9F%91%8B;Full-Stack+%7C+AI+%7C+Quantum+Dev;Data+Science+%40+MACE%2C+KTU;Building+Things+That+Matter+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I%27m+Athul+Titus+%F0%9F%91%8B;Full-Stack+%7C+AI+%7C+Quantum+Dev;Data+Science+%40+MACE%2C+KTU;Building+Things+That+Matter+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://portfolio-pi-snowy-54.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-70A5FD?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 <br/>
@@ -14,11 +22,12 @@
 
 ```python
 class AthulTitus:
-    name     = "Athul Titus"
-    location = "Thiruvananthapuram, Kerala, IN"
-    degree   = "B.Tech CS (Data Science) — MACE, KTU"
-    github   = "github.com/Athul-Titus"
-    email    = "athultitus2027@gmail.com"
+    name      = "Athul Titus"
+    location  = "Thiruvananthapuram, Kerala, IN"
+    degree    = "B.Tech CS (Data Science) — MACE, KTU"
+    portfolio = "portfolio-pi-snowy-54.vercel.app"
+    github    = "github.com/Athul-Titus"
+    email     = "athultitus2027@gmail.com"
 
     stack = [
         "Python", "React", "FastAPI",
@@ -39,10 +48,21 @@ class AthulTitus:
 
 </td>
 <td valign="top" width="45%">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="coding animation" />
 </td>
 </tr>
 </table>
+
+---
+
+## 🌐 Portfolio
+
+<div align="center">
+
+**See my work, projects and filmmaking in one place →**
+### [portfolio-pi-snowy-54.vercel.app](https://portfolio-pi-snowy-54.vercel.app/)
+
+</div>
 
 ---
 
@@ -62,6 +82,7 @@ class AthulTitus:
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -84,12 +105,13 @@ class AthulTitus:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Athul-Titus">
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Athul-Titus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-  </a>
-  <a href="https://github.com/Athul-Titus">
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Athul-Titus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-  </a>
+  <img height="190" alt="Profile details" src="https://raw.githubusercontent.com/Athul-Titus/Athul-Titus/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <img height="190" alt="Most used languages" src="https://raw.githubusercontent.com/Athul-Titus/Athul-Titus/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+</div>
+
+<div align="center">
+  <img height="190" alt="GitHub stats" src="https://raw.githubusercontent.com/Athul-Titus/Athul-Titus/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="190" alt="Repos per language" src="https://raw.githubusercontent.com/Athul-Titus/Athul-Titus/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
 </div>
 
 ---
@@ -97,7 +119,7 @@ class AthulTitus:
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Athul-Titus&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Athul-Titus&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 </div>
 
 ---
@@ -105,18 +127,21 @@ class AthulTitus:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Athul-Titus&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img width="95%" alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Athul-Titus&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 
 ---
 
-
 ## 💼 Experience
 
 <details>
-<summary><strong>IEEE MACE Student Branch</strong> — Program & Technical Team Member &nbsp;|&nbsp; Feb 2025 – Present &nbsp;|&nbsp; Kothamangalam, Kerala</summary>
+<summary><strong>IEEE MACE Student Branch</strong> — Program & Technical Team Member | Feb 2025 – Present | Kothamangalam, Kerala</summary>
 
-> ![IEEE](https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white) ![Technical](https://img.shields.io/badge/Technical%20Team-70A5FD?style=flat-square) ![Events](https://img.shields.io/badge/Events%20%26%20Workshops-BF91F3?style=flat-square)
+<br/>
+
+![IEEE](https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white)
+![Technical](https://img.shields.io/badge/Technical%20Team-70A5FD?style=flat-square)
+![Events](https://img.shields.io/badge/Events%20%26%20Workshops-BF91F3?style=flat-square)
 
 - Contributed to technical planning and execution of chapter events, workshops, and hackathons.
 - Served as Logistics Team member for **.hack()** — MACE's flagship hackathon event.
@@ -125,9 +150,12 @@ class AthulTitus:
 </details>
 
 <details>
-<summary><strong>GDG On Campus MACE</strong> — Logistics & Hospitality Lead &nbsp;|&nbsp; Feb 2025 – Present &nbsp;|&nbsp; Kothamangalam, Kerala</summary>
+<summary><strong>GDG On Campus MACE</strong> — Logistics & Hospitality Lead | Feb 2025 – Present | Kothamangalam, Kerala</summary>
 
-> ![GDG](https://img.shields.io/badge/Google%20Developer%20Group-4285F4?style=flat-square&logo=google&logoColor=white) ![Leadership](https://img.shields.io/badge/Leadership-38BDAE?style=flat-square)
+<br/>
+
+![GDG](https://img.shields.io/badge/Google%20Developer%20Group-4285F4?style=flat-square&logo=google&logoColor=white)
+![Leadership](https://img.shields.io/badge/Leadership-38BDAE?style=flat-square)
 
 - Led logistics and hospitality operations for **Lumora (Designathon)** — a campus-wide design competition.
 - Managed attendee coordination, venue setup, and on-ground team supervision.
@@ -135,18 +163,24 @@ class AthulTitus:
 </details>
 
 <details>
-<summary><strong>AISA MACE (Space Club)</strong> — Organising Team Member &nbsp;|&nbsp; June 2025 – Present &nbsp;|&nbsp; Kothamangalam, Kerala</summary>
+<summary><strong>AISA MACE (Space Club)</strong> — Organising Team Member | June 2025 – Present | Kothamangalam, Kerala</summary>
 
-> ![Space](https://img.shields.io/badge/Space%20%26%20Science-0D1117?style=flat-square&logo=nasa&logoColor=white)
+<br/>
+
+![Space](https://img.shields.io/badge/Space%20%26%20Science-0D1117?style=flat-square&logo=nasa&logoColor=white)
 
 - Active organising member for space science outreach and awareness events at MACE.
 
 </details>
 
 <details>
-<summary><strong>Keltron Knowledge Centre</strong> — Intern (Web Development / Python / Django) &nbsp;|&nbsp; June 2026 &nbsp;|&nbsp; Kerala</summary>
+<summary><strong>Keltron Knowledge Centre</strong> — Intern (Web Development / Python / Django) | June 2026 | Kerala</summary>
 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Web Dev](https://img.shields.io/badge/Web%20Development-70A5FD?style=flat-square)
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Web Dev](https://img.shields.io/badge/Web%20Development-70A5FD?style=flat-square)
 
 - Completed internship focused on web development using Python and Django framework.
 - Applied backend development skills in a professional government-affiliated technology environment.
@@ -161,14 +195,14 @@ class AthulTitus:
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**⚽ KickStats — FIFA World Cup 2026 Predictor**](https://github.com/Athul-Titus/WorldCup_Predictor) &nbsp;[![Live](https://img.shields.io/badge/Live-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://worldcup-predictor-athul.streamlit.app/) | Python · XGBoost · Streamlit · Pandas · Plotly · Transfermarkt | ML-powered match & lineup predictor trained on 100+ yrs of international football; 55% accuracy (vs 33% random baseline); tactical lineup simulator with WC 2026 squads; player scout with EA FC 25 ratings; K-Means player archetypes; deployed on Streamlit Cloud |
-| [**🤖 Cymonic — AI Talent Engine**](https://github.com/Athul-Titus/Talent-Search) &nbsp;[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://talent-search-eight.vercel.app/dashboard) | React · FastAPI · NVIDIA NIM · Llama 3 (8B & 70B) · Vercel · Render | Replaced keyword-ATS with semantic LLM scoring; multi-format resume ingestion (PDF/DOCX/Images) with OCR; real-time SSE streaming; anti-fraud credibility detector; deployed full-stack |
+| [**⚽ KickStats — FIFA World Cup 2026 Predictor**](https://github.com/Athul-Titus/WorldCup_Predictor) [![Live](https://img.shields.io/badge/Live-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://worldcup-predictor-athul.streamlit.app/) | Python · XGBoost · Streamlit · Pandas · Plotly · Transfermarkt | ML-powered match & lineup predictor trained on 100+ yrs of international football; 55% accuracy (vs 33% random baseline); tactical lineup simulator with WC 2026 squads; player scout with EA FC 25 ratings; K-Means player archetypes; deployed on Streamlit Cloud |
+| [**🤖 Cymonic — AI Talent Engine**](https://github.com/Athul-Titus/Talent-Search) [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://talent-search-eight.vercel.app/dashboard) | React · FastAPI · NVIDIA NIM · Llama 3 (8B & 70B) · Vercel · Render | Replaced keyword-ATS with semantic LLM scoring; multi-format resume ingestion (PDF/DOCX/Images) with OCR; real-time SSE streaming; anti-fraud credibility detector; deployed full-stack |
 | [**⚛️ BB84 QKD Simulator**](https://github.com/Athul-Titus/bb84_new) | TypeScript · Python · Qiskit · React · Flask · Cryptography | End-to-end quantum key distribution with Recursive BB84, rolling bias, Cascade error reconciliation; secure P2P messaging over LAN; smart abort classification |
-| [**🔧 FixMate — AI Appliance Repair Assistant**](https://github.com/Athul-Titus/Fixmate-Web) &nbsp;[![Live](https://img.shields.io/badge/Live-46E3B7?style=flat-square&logo=render&logoColor=black)](https://fixmate-app-1.onrender.com/) | React · Vite · Python · Flask · SQLite · Gemini AI · Render | RAG-powered repair chatbot with 8,200+ indexed appliance issues; brand/appliance/issue cascading dropdowns; Gemini 2.5 Flash AI solutions; full-stack monorepo deployed on Render |
-
-
+| [**🔧 FixMate — AI Appliance Repair Assistant**](https://github.com/Athul-Titus/Fixmate-Web) [![Live](https://img.shields.io/badge/Live-46E3B7?style=flat-square&logo=render&logoColor=black)](https://fixmate-app-1.onrender.com/) | React · Vite · Python · Flask · SQLite · Gemini AI · Render | RAG-powered repair chatbot with 8,200+ indexed appliance issues; brand/appliance/issue cascading dropdowns; Gemini 2.5 Flash AI solutions; full-stack monorepo deployed on Render |
 
 </div>
+
+> 💡 More projects and write-ups are on my [portfolio](https://portfolio-pi-snowy-54.vercel.app/).
 
 ---
 
@@ -176,8 +210,8 @@ class AthulTitus:
 
 <div align="center">
 
-| | Achievement | Details |
-|:---:|:------------|:--------|
+| Icon | Achievement | Details |
+|:----:|:------------|:--------|
 | 🏛️ | **IEEE MACE SB Executive Committee** | Technical team — organizing & executing chapter events |
 | 📜 | **NPTEL Certification — IoT** | Jul–Oct 2024, IIT-backed program |
 | 🧠 | **Prompt Engineering Certified** | AccelerateX, Nov 2024 |
@@ -193,15 +227,15 @@ class AthulTitus:
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|:-------|:------------|:-----|:------|
-| B.Tech — Computer Science & Engineering (Data Science) | Mar Athanasius College of Engineering, Kothamangalam (KTU) | 2023 – 2027 | 3rd Year |
+| Degree | Institution | Year | Status |
+|:-------|:------------|:-----|:-------|
+| B.Tech — Computer Science & Engineering (Data Science) | Mar Athanasius College of Engineering, Kothamangalam (KTU) | 2023 – 2027 | Final Year |
 
 </div>
 
 <br/>
 
-```
+```text
 🤖 Agentic AI          →  Multi-Agent Systems, Tool-Calling, LLM Orchestration
 ⚛️ Quantum Computing   →  BB84 QKD, Qiskit Runtime, E91 Protocol, PNS Attack Modeling
 📊 Data Analytics      →  Power BI, PySpark, Dataiku, LLM-powered Analytics
@@ -211,24 +245,29 @@ class AthulTitus:
 
 ---
 
+## 📬 Let's Connect
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Athul-Titus&color=70a5fd&style=flat-square&label=Profile+Views" />
+  <a href="https://portfolio-pi-snowy-54.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-70A5FD?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   &nbsp;
   <a href="mailto:athultitus2027@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/athultitus/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/Athul-Titus">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Athul-Titus&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
 <br/>
-
 
 <div align="center">
   <img width="100%" src="footer.gif" alt="footer wave"/>
