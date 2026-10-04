@@ -255,7 +255,7 @@ Consider using GitHub Actions (like 'lowlighter/metrics') for a self-hosted robu
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Athul-Titus&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAthul-Titus&count_bg=%2370A5FD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Profile views" />
 </div>
 
 <br/>
