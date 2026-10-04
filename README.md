@@ -105,13 +105,8 @@ class AthulTitus:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="190" alt="Profile details" src="https://raw.githubusercontent.com/Athul-Titus/Athul-Titus/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
-  <img height="190" alt="Most used languages" src="https://raw.githubusercontent.com/Athul-Titus/Athul-Titus/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-</div>
-
-<div align="center">
-  <img height="190" alt="GitHub stats" src="https://raw.githubusercontent.com/Athul-Titus/Athul-Titus/main/profile-summary-card-output/tokyonight/3-stats.svg" />
-  <img height="190" alt="Repos per language" src="https://raw.githubusercontent.com/Athul-Titus/Athul-Titus/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img height="190" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Athul-Titus&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img height="190" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athul-Titus&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 ---
@@ -124,14 +119,10 @@ class AthulTitus:
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img width="95%" alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Athul-Titus&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-</div>
-
----
-
+<!-- 
+Activity Graph temporarily removed because the service (github-readme-activity-graph.vercel.app) is currently returning a 402 Payment Required error.
+Consider using GitHub Actions (like 'lowlighter/metrics') for a self-hosted robust solution in the future.
+-->
 ## 💼 Experience
 
 <details>
